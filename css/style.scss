@@ -85,9 +85,46 @@ h6 {
   font-size: inherit;
   font-weight: 400;
 }
-
+p{
+    font-size: 1.7rem;
+}
+h1{
+    font-size: 3rem;
+}
+h2{
+    font-size: 1.6rem;
+}
+h3{
+    font-size: 1.5rem;
+}
+h4{
+    font-size: 1.7rem;
+}
 body{
     font-size: 10px;
-    background-color: rgba(162, 162, 255, 0.568);
+    max-width: 100%;
     font-family: Montserrat;
+}
+// <colors>
+//**
+:root{
+    --color-background: #EAEAEA;
+    --color-card-title: #1C1C27;
+    --color-grade: #838383;
+    --color-price: #FFA542;
+    --color-old-price: #FFCE7F;
+    --color-logo-button-icon: #101010;
+    --color-footer: #000000;
+    --color-form-input: #D6D6D6;
+    --color-discount: #454e56;
+}
+// </colors>
+._container{
+    max-width: 1140px;
+    margin: 0 auto;
+    padding: 0 15px;
+    
+}
+.wrapper{
+  
 }
