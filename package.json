@@ -1,0 +1,25 @@
+{
+  "name": "sklep",
+  "version": "1.0.0",
+  "description": "gulp-comp",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jekahomie/webshop.git"
+  },
+  "author": "sklep",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jekahomie/webshop/issues"
+  },
+  "homepage": "https://github.com/jekahomie/webshop#readme",
+  "devDependencies": {
+    "browser-sync": "^2.27.11",
+    "del": "^6.0.0",
+    "gulp": "^4.0.2",
+    "gulp-file-include": "^2.3.0"
+  }
+}
